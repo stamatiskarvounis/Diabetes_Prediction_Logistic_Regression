@@ -8,11 +8,11 @@ This project focuses on building a binary logistic regression model to predict d
 - Conducted data cleaning and preprocessing, removing irrelevant fields and handling outliers.
 - Transformed categorical variables into numerical formats for model compatibility.
 - Utilized descriptive statistics and visualizations to understand data distributions and relationships.
-- 
+  
 ## Feature Engineering and Selection:
 - Created new variables and converted continuous variables into categorical ones.
 - Identified key features correlated with diabetes status using correlation analysis.
-- 
+  
 ## Model Building:
 - Split the data into training and test sets.
 - Developed logistic regression models using selected features (HbA1c, BMI, age, urea, cholesterol, and triglycerides).
